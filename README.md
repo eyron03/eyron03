@@ -1,5 +1,12 @@
-# 💫 About Me:
-# 👋 Hello, I'm Aaron!<br><br>💻 **Aspiring Full-Stack Developer | Laravel & Next.js **  <br><br><br>## 🌱 I’m currently learning  <br>- **Next.js & Tailwind CSS** for modern web development  <br>- **Laravel API development**  _"Still learning, still growing."_ 🌱  <br>
+# 👋 Hello, I'm Aaron!  
+
+**💻 Aspiring Full-Stack Developer | Laravel & Next.js**  
+
+### 🌱 Currently Learning  
+- **Next.js & Tailwind CSS** for modern web development  
+- **Laravel API development**
+- 
+_"Still learning, still growing."_ 🌱  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eyron.arenas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aeyron2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eyron0329) 
