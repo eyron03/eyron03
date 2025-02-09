@@ -3,9 +3,9 @@
 **💻 Aspiring Full-Stack Developer | Laravel & Next.js**  
 
 ### 🌱 Currently Learning  
-- **Next.js & Tailwind CSS** for modern web development  
-- **Laravel API development**
-- 
+- **Next.js & Shadcn ui** for modern web development  
+- **Laravel Filament**
+  
 _"Still learning, still growing."_ 🌱  
 
 ## 🌐 Socials:
