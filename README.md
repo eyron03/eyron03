@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Aaron!  
 
-**💻 Aspiring Full-Stack Developer | Laravel & Next.js**  
-
----
 
 ### 🌱 Currently Learning  
 - **Next.js & ShadCN UI** for modern web development  
