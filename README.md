@@ -2,7 +2,7 @@
 
 
 ### 🌱 Currently Learning  
-- **Next.js & ShadCN UI** for modern web development  
+- **Next.js & ShadCN UI**   
 - **Laravel Filament**  
 
 _"Still learning, still growing."_ 🌱  
