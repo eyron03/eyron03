@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Aaron!  
 
 
+
 ### 🌱 Currently Learning  
-- **Next.js & ShadCN UI**   
+- **Next.js & ShadCN UI** for modern web development  
 - **Laravel Filament**  
 
 _"Still learning, still growing."_ 🌱  
@@ -53,6 +54,8 @@ _"Still learning, still growing."_ 🌱
 
 ---
 
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=eyron03&icon=0&color=0">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
